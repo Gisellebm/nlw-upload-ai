@@ -47,7 +47,7 @@ Antes de iniciar, certifique-se de ter o `Node.js` e o `npm` instalados em seu c
 1. Clone o repositório:
 
 ```
-$ git clone https://github.com/madalena-rocha/upload-ai-web
+$ git clone https://github.com/Gisellebm/nlw-upload-ai.git
 ```
 
 2. Acesse a pasta do projeto:
