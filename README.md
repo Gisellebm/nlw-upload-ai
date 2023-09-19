@@ -19,7 +19,8 @@ Aplicação que possibilita realizar upload de videos e por meio de IA, criar au
 
 <br/>
 
-  ![preview](./public/projeto2.png)
+
+https://github.com/Gisellebm/nlw-upload-ai/assets/55713609/5d3f5051-c967-4e0f-af6c-c61c2782e8d5
 
 
 ## 🚀 Tecnologias
@@ -68,6 +69,8 @@ $ npm install
 $ npm run dev
 ```
 
+## Acesso ao Back-end : 
+<a>https://github.com/Gisellebm/upload-ai-api</a>
 
 <br/>
 
